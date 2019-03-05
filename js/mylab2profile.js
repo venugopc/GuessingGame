@@ -1,3 +1,4 @@
+"use strict";
 var user = prompt('what is your name?');
 console.log('user name:', user);
 alert('Hi there ' + user + ' I\'m going to ask you few questions.');
